@@ -1,0 +1,15 @@
+# ElewonGSM
+---
+
+**ElewonGSM** is a lightweight and beginner-friendly Bash script that helps you set up a game server on Linux with just a few terminal commands. No complex configuration, no unnecessary steps — just clone, run, and play.
+
+## ✨ Features
+- Simple and clean setup process
+- Supports popular games like Minecraft (more coming soon)
+- Lightweight and easy to understand
+- Ideal for hobbyists, developers, and server admins
+
+## 🖥️ Requirements
+- A Linux-based system (Ubuntu, Debian, etc.)
+- `bash` installed
+- Internet connection
