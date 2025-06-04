@@ -3,6 +3,6 @@
 
 ### Available Softwares:
 
-* [Spigot]()
-* [Bukkit]()
+* [Spigot](https://github.com/Viexsa/ElewonGSM/tree/main/game-servers/Minecraft/installations/Centos/Spigot)
+* [Bukkit](https://github.com/Viexsa/ElewonGSM/tree/main/game-servers/Minecraft/installations/Centos/Bukkit)
 * [Vanilla]()
