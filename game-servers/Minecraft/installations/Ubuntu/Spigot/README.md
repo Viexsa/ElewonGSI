@@ -1,6 +1,8 @@
 # Spigot Installation Procedures for Ubuntu/Debian
 ---
 
+> Attention: You must be connected to your server with the “ ROOT ” user.
+
 ### Available Versions:
 
 | Spigot | Spigot | 
