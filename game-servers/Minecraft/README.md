@@ -16,6 +16,15 @@ Whether you're a developer or just want to play with friends, this update makes 
 
 ---
 
+### Recommended Operating System
+
+| Ubuntu | Debian |
+| -------- | -------- |
+| 24  | 12  |
+| 22  | 11  |
+
+---
+
 * ## 🚀 Installation & Usage
     - [Ubuntu/Debian](https://github.com/Viexsa/ElewonGSI/tree/main/game-servers/Minecraft/installations/Ubuntu)
 
