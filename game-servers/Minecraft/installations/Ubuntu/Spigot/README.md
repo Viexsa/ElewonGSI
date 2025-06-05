@@ -50,7 +50,7 @@ sudo ./setup.sh
 <blockquote>Enter the version you have chosen in the required place on the command.</blockquote>
 
 ```
-sudo bash start-X.XX.X.sh
+sudo ./start-X.XX.X.sh
 ```
 
 ### Step 4:
