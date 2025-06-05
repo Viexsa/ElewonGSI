@@ -34,8 +34,13 @@ sudo wget https://get.elewon.net/mc/ubuntu/bukkit/1.21.1/setup.sh
 **We install the incoming setup.sh script using the following command.**
 
 ```
-sudo bash setup.sh
+sudo chmod +x setup.sh
 ```
+
+```
+sudo ./setup.sh
+```
+
 ---
 
 ### Step 3:
