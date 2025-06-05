@@ -8,6 +8,7 @@
 - Supports popular games like Minecraft (more coming soon)
 - Lightweight and easy to understand
 - Ideal for hobbyists, developers, and server admins
+- Open source (You can examine it by pulling the necessary files to your server)
 
 ## 🖥️ Requirements
 - A Linux-based system (Ubuntu, Debian)
