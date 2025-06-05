@@ -18,6 +18,5 @@ Whether you're a developer or just want to play with friends, this update makes 
 
 * ## 🚀 Installation & Usage
     - [Ubuntu/Debian](https://github.com/Viexsa/ElewonGSI/tree/main/game-servers/Minecraft/installations/Ubuntu)
-    - [Centos/AlmaLinux](https://github.com/Viexsa/ElewonGSI/tree/main/game-servers/Minecraft/installations/Centos)
 
 ---
