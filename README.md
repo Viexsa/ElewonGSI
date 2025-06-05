@@ -10,6 +10,6 @@
 - Ideal for hobbyists, developers, and server admins
 
 ## 🖥️ Requirements
-- A Linux-based system (Ubuntu, Debian, etc.)
+- A Linux-based system (Ubuntu, Debian)
 - `bash` installed
 - Internet connection
