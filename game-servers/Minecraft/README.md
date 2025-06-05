@@ -1,4 +1,4 @@
-# ElewonGSM - Minecraft Server Setup
+# ElewonGSI - Minecraft Server Setup
 ---
 
 🧱 Minecraft Quick Setup Added
@@ -17,7 +17,7 @@ Whether you're a developer or just want to play with friends, this update makes 
 ---
 
 * ## 🚀 Installation & Usage
-    - [Ubuntu/Debian](https://github.com/Viexsa/ElewonGSM/tree/main/game-servers/Minecraft/installations/Ubuntu)
-    - [Centos/AlmaLinux](https://github.com/Viexsa/ElewonGSM/tree/main/game-servers/Minecraft/installations/Centos)
+    - [Ubuntu/Debian](https://github.com/Viexsa/ElewonGSI/tree/main/game-servers/Minecraft/installations/Ubuntu)
+    - [Centos/AlmaLinux](https://github.com/Viexsa/ElewonGSI/tree/main/game-servers/Minecraft/installations/Centos)
 
 ---

@@ -1,5 +1,5 @@
-# ElewonGSM
+# ElewonGSI
 ---
 
 ## 🎮 Games
-- [Minecraft](https://github.com/Viexsa/ElewonGSM/tree/main/game-servers/Minecraft)
+- [Minecraft](https://github.com/Viexsa/ElewonGSI/tree/main/game-servers/Minecraft)
