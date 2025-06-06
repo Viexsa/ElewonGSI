@@ -1,4 +1,4 @@
-# ElewonGSI
+# ElewonGSI - Game Server Installer
 ---
 
 **ElewonGSI** is a lightweight and beginner-friendly Bash script that helps you set up a game server on Linux with just a few terminal commands. No complex configuration, no unnecessary steps — just clone, run, and play.
